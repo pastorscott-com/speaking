@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>coronaverse &#8211; Pastor Scott&#039;s Ministerially Speaking</title>
+	<atom:link href="/index.php/tag/coronaverse/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Random Observations from Pastor Scott Cundiff</description>
+	<lastBuildDate>Thu, 14 Dec 2023 18:53:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Coronaverses #09</title>
+		<link>/index.php/coronaverses-09/</link>
+		
+		<dc:creator><![CDATA[GR 'Scott' Cundiff]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 17:08:45 +0000</pubDate>
+				<category><![CDATA[ministerially_speaking]]></category>
+		<category><![CDATA[Pastor Scott Cundiff]]></category>
+		<category><![CDATA[coronaverse]]></category>
+		<guid isPermaLink="false">http://localhost/speaking/?p=2982</guid>
+
+					<description><![CDATA[Isaiah 26:3 &#8211; #coronaverses]]></description>
+										<content:encoded><![CDATA[<p>Isaiah 26:3 &#8211; #coronaverses</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-large" src="https://3.bp.blogspot.com/-BeROonygDUs/XnzhV2rOW3I/AAAAAAABEW0/fApAyICe55Ye27-gSS2TRl4ZwIUO7icgwCKgBGAsYHg/s1600/coronverses09.png" width="800" height="800" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

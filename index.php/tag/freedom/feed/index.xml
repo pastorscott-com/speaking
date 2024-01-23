@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>freedom &#8211; Pastor Scott&#039;s Ministerially Speaking</title>
+	<atom:link href="/index.php/tag/freedom/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Random Observations from Pastor Scott Cundiff</description>
+	<lastBuildDate>Thu, 14 Dec 2023 18:53:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Memorial Day Thoughts</title>
+		<link>/index.php/memorial-day-thoughts/</link>
+		
+		<dc:creator><![CDATA[GR 'Scott' Cundiff]]></dc:creator>
+		<pubDate>Sun, 28 May 2006 13:55:00 +0000</pubDate>
+				<category><![CDATA[ministerially_speaking]]></category>
+		<category><![CDATA[Pastor Scott Cundiff]]></category>
+		<category><![CDATA[freedom]]></category>
+		<category><![CDATA[Memorial Day]]></category>
+		<category><![CDATA[thanksgiving]]></category>
+		<guid isPermaLink="false">http://nazareneblogs.org/miscellany/2006/05/28/memorial-day-thoughts/</guid>
+
+					<description><![CDATA[I think the issue of human freedom is a complex one, especially because it carries strong religious overtones and emotional responses. We are indebted to those who have laid down their lives to preserve our freedoms. On Veteran&#8217;s Day we especially thank those who served, and on Memorial Day we especially remember those who made [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><span style="font-family: Arial;font-size: x-small">I think the issue of human freedom is a complex one, especially because it carries strong religious overtones and emotional responses.</span></p>
+<p><span style="font-family: Arial;font-size: x-small">We are indebted to those who have laid down their lives to preserve our freedoms. On Veteran&#8217;s Day we especially thank those who served, and on Memorial Day we especially remember those who made the ultimate sacrifice in their service.</span></p>
+<p><span style="font-family: Arial;font-size: x-small">Our nation credits our Creator for our freedom: &#8220;We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.&#8221; With that in mind, it is God who we thank for our freedoms.</span></p>
+<p><span style="font-family: Arial;font-size: x-small">On this day, we remember that it is God to whom our nation turns for the very idea of freedom. We ought to remember that, and as we remember, we need to remember those who gave their all to win and preserve what we believe the Almighty gave us.</span></div>
+<div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

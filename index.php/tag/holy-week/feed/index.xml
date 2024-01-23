@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Holy Week &#8211; Pastor Scott&#039;s Ministerially Speaking</title>
+	<atom:link href="/index.php/tag/holy-week/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Random Observations from Pastor Scott Cundiff</description>
+	<lastBuildDate>Thu, 14 Dec 2023 18:53:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Holy Week Scripture Readings</title>
+		<link>/index.php/holy-week-scripture-readings/</link>
+		
+		<dc:creator><![CDATA[GR 'Scott' Cundiff]]></dc:creator>
+		<pubDate>Mon, 29 Mar 2010 18:31:00 +0000</pubDate>
+				<category><![CDATA[ministerially_speaking]]></category>
+		<category><![CDATA[Pastor Scott Cundiff]]></category>
+		<category><![CDATA[Bible]]></category>
+		<category><![CDATA[Holy Week]]></category>
+		<guid isPermaLink="false">http://nazareneblogs.org/miscellany/?p=1437</guid>
+
+					<description><![CDATA[Holy Week Scripture Readings Sunday: Mark 11:1-11 Monday: Mark 11:12-19 Tuesday: Mark 11:20-33 Wednesday: nothing recorded, but Mark 13 is a good one to read Thursday: Mark 14 Friday: Mark 15 Saturday: Jesus&#8217; Body in the tomb Sunday: Mark 16:1-7]]></description>
+										<content:encoded><![CDATA[<p>Holy Week Scripture Readings<br />
+Sunday: Mark 11:1-11<br />
+Monday: Mark 11:12-19<br />
+Tuesday: Mark 11:20-33<br />
+Wednesday: nothing recorded, but Mark 13 is a good one to read<br />
+Thursday: Mark 14<br />
+Friday: Mark 15<br />
+Saturday: Jesus&#8217; Body in the tomb<br />
+Sunday: Mark 16:1-7</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

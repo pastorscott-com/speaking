@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>change &#8211; Pastor Scott&#039;s Ministerially Speaking</title>
+	<atom:link href="/index.php/tag/change/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Random Observations from Pastor Scott Cundiff</description>
+	<lastBuildDate>Thu, 14 Dec 2023 18:53:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Wish I had said that</title>
+		<link>/index.php/wish-i-had-said-that/</link>
+		
+		<dc:creator><![CDATA[GR 'Scott' Cundiff]]></dc:creator>
+		<pubDate>Mon, 13 Mar 2006 02:40:00 +0000</pubDate>
+				<category><![CDATA[ministerially_speaking]]></category>
+		<category><![CDATA[Pastor Scott Cundiff]]></category>
+		<category><![CDATA[change]]></category>
+		<guid isPermaLink="false">http://nazareneblogs.org/miscellany/2006/03/12/wish-i-had-said-that/</guid>
+
+					<description><![CDATA[According to Elmer Towns the Duke of Canterbury once said: &#8220;Any change for any reason for any purpose should be deplored.&#8221;]]></description>
+										<content:encoded><![CDATA[<p>According to Elmer Towns the Duke of Canterbury once said:<br />
+&#8220;Any change for any reason for any purpose should be deplored.&#8221;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

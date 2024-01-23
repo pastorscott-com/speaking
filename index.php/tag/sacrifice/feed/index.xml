@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sacrifice &#8211; Pastor Scott&#039;s Ministerially Speaking</title>
+	<atom:link href="/index.php/tag/sacrifice/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Random Observations from Pastor Scott Cundiff</description>
+	<lastBuildDate>Thu, 14 Dec 2023 18:53:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>At the cross&#8230;</title>
+		<link>/index.php/at-the-cross/</link>
+		
+		<dc:creator><![CDATA[GR 'Scott' Cundiff]]></dc:creator>
+		<pubDate>Thu, 01 Apr 2010 22:22:02 +0000</pubDate>
+				<category><![CDATA[ministerially_speaking]]></category>
+		<category><![CDATA[Pastor Scott Cundiff]]></category>
+		<category><![CDATA[cross]]></category>
+		<category><![CDATA[crucifixion]]></category>
+		<category><![CDATA[sacrifice]]></category>
+		<guid isPermaLink="false">http://nazareneblogs.org/miscellany/?p=1439</guid>
+
+					<description><![CDATA[The occupied cross is the symbol of God’s love for us. The empty cross is our symbol of resurrection and hope. The carried cross is the mark of our continued sacrifice and commitment to Jesus. Luke 14:27  And anyone who does not carry his cross and follow me cannot be my disciple.]]></description>
+										<content:encoded><![CDATA[<p>The <strong>occupied cross</strong> is the symbol of God’s love for us.<br />
+The <strong>empty cross</strong> is our symbol of resurrection and hope.<br />
+The <strong>carried cross</strong> is the mark of our continued sacrifice and commitment to Jesus.</p>
+<p>Luke 14:27  <em>And anyone who does not carry his cross and follow me cannot be my disciple.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

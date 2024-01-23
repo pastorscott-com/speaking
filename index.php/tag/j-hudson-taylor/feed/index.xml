@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>J Hudson Taylor &#8211; Pastor Scott&#039;s Ministerially Speaking</title>
+	<atom:link href="/index.php/tag/j-hudson-taylor/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Random Observations from Pastor Scott Cundiff</description>
+	<lastBuildDate>Thu, 14 Dec 2023 18:53:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>J. Hudson Taylor on prayer</title>
+		<link>/index.php/j-hudson-taylor-on-prayer/</link>
+		
+		<dc:creator><![CDATA[GR 'Scott' Cundiff]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2006 15:43:00 +0000</pubDate>
+				<category><![CDATA[ministerially_speaking]]></category>
+		<category><![CDATA[Pastor Scott Cundiff]]></category>
+		<category><![CDATA[J Hudson Taylor]]></category>
+		<category><![CDATA[Prayer]]></category>
+		<guid isPermaLink="false">http://nazareneblogs.org/miscellany/2006/10/12/j-hudson-taylor-on-prayer/</guid>
+
+					<description><![CDATA[In his biography on George Muller, Pierson has an interesting quote on prayer from missionary J. Hudson Taylor: &#8220;Satan, the Hinderer, may build a barrier about us, but he can never roof us in, so that we cannot look up.&#8221;  When there is nowhere else to turn, the upward look of prayer remains our most [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In his biography on George Muller, Pierson has an interesting quote on prayer from missionary J. Hudson Taylor: &#8220;Satan, the Hinderer, may build a barrier about us, but he can never roof us in, so that we cannot look up.&#8221;  When there is nowhere else to turn, the upward look of prayer remains our most available resource.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

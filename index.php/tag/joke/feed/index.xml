@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>joke &#8211; Pastor Scott&#039;s Ministerially Speaking</title>
+	<atom:link href="/index.php/tag/joke/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Random Observations from Pastor Scott Cundiff</description>
+	<lastBuildDate>Thu, 14 Dec 2023 18:53:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>At the Pearly Gates</title>
+		<link>/index.php/at-the-pearly-gates/</link>
+		
+		<dc:creator><![CDATA[GR 'Scott' Cundiff]]></dc:creator>
+		<pubDate>Tue, 04 May 2010 14:18:31 +0000</pubDate>
+				<category><![CDATA[ministerially_speaking]]></category>
+		<category><![CDATA[Pastor Scott Cundiff]]></category>
+		<category><![CDATA[church]]></category>
+		<category><![CDATA[joke]]></category>
+		<guid isPermaLink="false">http://nazareneblogs.org/miscellany/?p=1453</guid>
+
+					<description><![CDATA[On this day there happens to be a backlog at the Pearly Gates. Nothing major, but there&#8217;s a line of several hundred people waiting to be processed in. Once in awhile, there&#8217;s a great cheer from those who are close to the front of the line. The folks in the back are not only anxious [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>On this day there happens to be a backlog at the Pearly Gates.  Nothing  major, but there&#8217;s a line of several hundred people waiting to be  processed in.</p>
+<p>Once in awhile, there&#8217;s a great cheer from those who are close to the  front of the line.  The folks in the back are not only anxious for their  turn to be admitted into heaven, but they are also curious as to what  the cheering is about.</p>
+<p>The line moves forward and there&#8217;s more cheering.  &#8220;What are they  cheering about?&#8221; those farther back ask.</p>
+<p>Now, they&#8217;ve moved forward and there&#8217;s a great cheer by those just in  front of them.  Someone asks the one in front of them, &#8220;Did you hear why  they&#8217;re cheering?&#8221;</p>
+<p>&#8220;Yes,&#8221; she says, &#8220;Saint Peter says that Sunday nights don&#8217;t count.&#8221;</p>
+<p>&#8220;Yeaaaaaa!&#8221; the group cheers.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
