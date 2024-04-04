@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on April 4, 2024 at 5:17 pm by All in One SEO v4.6.0 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on April 4, 2024 at 6:28 pm by All in One SEO v4.6.0 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=post_tag"?>
 <urlset
@@ -21,7 +21,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/index.php/tag/advice/]]></loc>
-		<lastmod><![CDATA[2024-04-04T17:15:36+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-04-04T17:57:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
@@ -81,7 +81,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/index.php/tag/church/]]></loc>
-		<lastmod><![CDATA[2024-04-04T17:15:36+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-04-04T17:57:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
@@ -111,7 +111,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/index.php/tag/cross/]]></loc>
-		<lastmod><![CDATA[2024-04-04T17:15:36+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-04-04T17:57:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
@@ -141,7 +141,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/index.php/tag/easter/]]></loc>
-		<lastmod><![CDATA[2024-04-04T17:15:36+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-04-04T17:57:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
@@ -249,7 +249,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/index.php/tag/humor/]]></loc>
-		<lastmod><![CDATA[2024-04-04T17:15:36+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-04-04T17:57:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
@@ -471,7 +471,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[/index.php/tag/reverend/]]></loc>
-		<lastmod><![CDATA[2024-04-04T17:15:36+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-04-04T17:57:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
