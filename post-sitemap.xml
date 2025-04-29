@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on May 14, 2024 at 5:39 pm by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on April 29, 2025 at 5:11 pm by All in One SEO v4.8.1.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=post"?>
 <urlset
@@ -8,7 +8,7 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/index.php/the-danger-of-opposite-values/]]></loc>
+		<loc><![CDATA[/the-danger-of-opposite-values/]]></loc>
 		<lastmod><![CDATA[2024-05-14T17:37:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -17,7 +17,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/holy-laughter-sunday/]]></loc>
+		<loc><![CDATA[/holy-laughter-sunday/]]></loc>
 		<lastmod><![CDATA[2024-04-04T17:57:44+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -26,7 +26,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/advise-to-young-pastors-baptism/]]></loc>
+		<loc><![CDATA[/advise-to-young-pastors-baptism/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:53:14+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -35,7 +35,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/reflections-on-the-second-anniversary-of-my-retirement/]]></loc>
+		<loc><![CDATA[/reflections-on-the-second-anniversary-of-my-retirement/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:52:27+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -44,7 +44,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/reflections-on-the-1st-anniversary-of-my-retirement/]]></loc>
+		<loc><![CDATA[/reflections-on-the-1st-anniversary-of-my-retirement/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:49:59+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -56,7 +56,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/preparing-the-church-for-a-pastoral-sabbatical/]]></loc>
+		<loc><![CDATA[/preparing-the-church-for-a-pastoral-sabbatical/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:48:50+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -65,7 +65,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/church-website-advice/]]></loc>
+		<loc><![CDATA[/church-website-advice/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:47:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -74,7 +74,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/reading-the-word-of-the-lord/]]></loc>
+		<loc><![CDATA[/reading-the-word-of-the-lord/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:46:56+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -83,7 +83,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/god-sometimes-colors-outside-the-lines/]]></loc>
+		<loc><![CDATA[/god-sometimes-colors-outside-the-lines/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:46:00+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -92,7 +92,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/advice-to-young-pastors-annual-meetings-1/]]></loc>
+		<loc><![CDATA[/advice-to-young-pastors-annual-meetings-1/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:45:18+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -101,7 +101,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/preaching-advice-for-young-pastors-preach-an-annual-message/]]></loc>
+		<loc><![CDATA[/preaching-advice-for-young-pastors-preach-an-annual-message/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:44:18+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -110,7 +110,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/learning-to-laugh-at-yourself/]]></loc>
+		<loc><![CDATA[/learning-to-laugh-at-yourself/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:43:26+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -119,7 +119,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/preaching-advice-for-young-pastors-funerals-part-3/]]></loc>
+		<loc><![CDATA[/preaching-advice-for-young-pastors-funerals-part-3/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:42:26+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -128,7 +128,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/preaching-advice-for-young-pastors-funerals-part-2/]]></loc>
+		<loc><![CDATA[/preaching-advice-for-young-pastors-funerals-part-2/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:41:36+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -137,7 +137,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/preaching-advice-for-young-pastors-funerals-part-1/]]></loc>
+		<loc><![CDATA[/preaching-advice-for-young-pastors-funerals-part-1/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:40:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -146,7 +146,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/preaching-advice-for-young-pastors-mothers-day/]]></loc>
+		<loc><![CDATA[/preaching-advice-for-young-pastors-mothers-day/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:39:30+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -155,7 +155,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/confession-of-a-non-liturgical-pastor/]]></loc>
+		<loc><![CDATA[/confession-of-a-non-liturgical-pastor/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:38:36+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -164,7 +164,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/pastors-day-off-and-other-pastortime-issues/]]></loc>
+		<loc><![CDATA[/pastors-day-off-and-other-pastortime-issues/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:37:47+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -173,7 +173,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/pastor-appreciation-take-the-day-off/]]></loc>
+		<loc><![CDATA[/pastor-appreciation-take-the-day-off/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:33:01+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -182,7 +182,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/great-holiness-song/]]></loc>
+		<loc><![CDATA[/great-holiness-song/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:32:07+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -191,7 +191,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/holy-week-scripture-readings/]]></loc>
+		<loc><![CDATA[/holy-week-scripture-readings/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:30:41+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -200,7 +200,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/playing-ecclesiastical-space-invaders/]]></loc>
+		<loc><![CDATA[/playing-ecclesiastical-space-invaders/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:29:26+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -209,7 +209,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/nazarenes-the-bible-fundamentalism/]]></loc>
+		<loc><![CDATA[/nazarenes-the-bible-fundamentalism/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:28:31+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -218,7 +218,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/cutting-and-slashing-in-jesus-name/]]></loc>
+		<loc><![CDATA[/cutting-and-slashing-in-jesus-name/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:27:00+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -227,7 +227,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/what-to-think-of-someone-who-accuses-us-of-telling-lies-or-says-other-unkind-things-about-us/]]></loc>
+		<loc><![CDATA[/what-to-think-of-someone-who-accuses-us-of-telling-lies-or-says-other-unkind-things-about-us/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:26:15+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -236,7 +236,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/battle-for-the-bible-2/]]></loc>
+		<loc><![CDATA[/battle-for-the-bible-2/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:23:44+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -245,7 +245,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/a-pastor-appreciating-fine-lay-people/]]></loc>
+		<loc><![CDATA[/a-pastor-appreciating-fine-lay-people/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:22:41+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -266,7 +266,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/in-search-of-mediocrity/]]></loc>
+		<loc><![CDATA[/in-search-of-mediocrity/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:17:34+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -275,7 +275,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/memorial-day-thoughts/]]></loc>
+		<loc><![CDATA[/memorial-day-thoughts/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:16:30+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -284,7 +284,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/hurricanes-and-the-return-of-christ/]]></loc>
+		<loc><![CDATA[/hurricanes-and-the-return-of-christ/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:13:19+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -293,7 +293,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/911-we-remember/]]></loc>
+		<loc><![CDATA[/911-we-remember/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:12:23+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -302,7 +302,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/clothes-gluttons/]]></loc>
+		<loc><![CDATA[/clothes-gluttons/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:11:21+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -311,7 +311,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/reverend-pastor-preacher-father/]]></loc>
+		<loc><![CDATA[/reverend-pastor-preacher-father/]]></loc>
 		<lastmod><![CDATA[2024-02-22T01:10:12+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -320,7 +320,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/who-is-god/]]></loc>
+		<loc><![CDATA[/who-is-god/]]></loc>
 		<lastmod><![CDATA[2024-02-22T00:53:47+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -329,7 +329,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/funeral-for-a-baby-that-didnt-make-it-to-birth/]]></loc>
+		<loc><![CDATA[/funeral-for-a-baby-that-didnt-make-it-to-birth/]]></loc>
 		<lastmod><![CDATA[2024-02-22T00:52:04+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -338,7 +338,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/preaching-on-second-blessing-holiness/]]></loc>
+		<loc><![CDATA[/preaching-on-second-blessing-holiness/]]></loc>
 		<lastmod><![CDATA[2024-02-22T00:51:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -347,7 +347,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/inspirational-story-of-gohn-geddie/]]></loc>
+		<loc><![CDATA[/inspirational-story-of-gohn-geddie/]]></loc>
 		<lastmod><![CDATA[2024-02-22T00:49:39+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -356,7 +356,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/value-of-prayer/]]></loc>
+		<loc><![CDATA[/value-of-prayer/]]></loc>
 		<lastmod><![CDATA[2024-02-22T00:46:26+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -365,7 +365,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/the-elder-brother/]]></loc>
+		<loc><![CDATA[/the-elder-brother/]]></loc>
 		<lastmod><![CDATA[2024-02-22T00:44:13+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -374,7 +374,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/a-holy-god-and-a-holy-people/]]></loc>
+		<loc><![CDATA[/a-holy-god-and-a-holy-people/]]></loc>
 		<lastmod><![CDATA[2024-02-22T00:42:13+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -383,7 +383,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/god-and-history/]]></loc>
+		<loc><![CDATA[/god-and-history/]]></loc>
 		<lastmod><![CDATA[2024-02-22T00:39:44+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -392,13 +392,13 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/christians-should-walk-the-talk/]]></loc>
+		<loc><![CDATA[/christians-should-walk-the-talk/]]></loc>
 		<lastmod><![CDATA[2024-02-22T00:34:59+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/sing-it-right-christ-arose/]]></loc>
+		<loc><![CDATA[/sing-it-right-christ-arose/]]></loc>
 		<lastmod><![CDATA[2023-12-23T21:37:06+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -407,7 +407,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/looking-for-a-pastor/]]></loc>
+		<loc><![CDATA[/looking-for-a-pastor/]]></loc>
 		<lastmod><![CDATA[2023-12-22T01:13:33+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -419,7 +419,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/advice-to-young-pastors-preach-the-gospel/]]></loc>
+		<loc><![CDATA[/advice-to-young-pastors-preach-the-gospel/]]></loc>
 		<lastmod><![CDATA[2023-12-19T20:22:21+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -428,7 +428,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/my-how-things-have-changed/]]></loc>
+		<loc><![CDATA[/my-how-things-have-changed/]]></loc>
 		<lastmod><![CDATA[2023-12-19T20:16:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -446,7 +446,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/how-well-is-your-church-entrance-marked/]]></loc>
+		<loc><![CDATA[/how-well-is-your-church-entrance-marked/]]></loc>
 		<lastmod><![CDATA[2023-12-19T20:15:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -455,7 +455,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/thinking-about-pastor-appreciation/]]></loc>
+		<loc><![CDATA[/thinking-about-pastor-appreciation/]]></loc>
 		<lastmod><![CDATA[2023-12-19T20:15:05+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -464,7 +464,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/after-communion/]]></loc>
+		<loc><![CDATA[/after-communion/]]></loc>
 		<lastmod><![CDATA[2023-12-19T20:13:14+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -473,7 +473,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/minister-to-children/]]></loc>
+		<loc><![CDATA[/minister-to-children/]]></loc>
 		<lastmod><![CDATA[2023-12-19T20:06:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -482,37 +482,37 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/if-you-have-a-child-who-is-away-from-god-today/]]></loc>
+		<loc><![CDATA[/if-you-have-a-child-who-is-away-from-god-today/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:20+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/wish-i-had-said-that/]]></loc>
+		<loc><![CDATA[/wish-i-had-said-that/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:20+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/humor-of-abraham-lincoln/]]></loc>
+		<loc><![CDATA[/humor-of-abraham-lincoln/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:20+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/heart-and-doctrine/]]></loc>
+		<loc><![CDATA[/heart-and-doctrine/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:19+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/j-hudson-taylor-on-prayer/]]></loc>
+		<loc><![CDATA[/j-hudson-taylor-on-prayer/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:19+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/its-pastor-appreciation-month/]]></loc>
+		<loc><![CDATA[/its-pastor-appreciation-month/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:14+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -521,7 +521,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/more-and-more-pastor-appreciation/]]></loc>
+		<loc><![CDATA[/more-and-more-pastor-appreciation/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:14+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -533,25 +533,25 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/at-the-cross/]]></loc>
+		<loc><![CDATA[/at-the-cross/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:13+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/great-easter-quote/]]></loc>
+		<loc><![CDATA[/great-easter-quote/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:13+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/at-the-pearly-gates/]]></loc>
+		<loc><![CDATA[/at-the-pearly-gates/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:13+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/quote-from-pf-bresee-concerning-nazarene-doctrine/]]></loc>
+		<loc><![CDATA[/quote-from-pf-bresee-concerning-nazarene-doctrine/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:12+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -560,7 +560,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/previenent-grace-along-the-highway/]]></loc>
+		<loc><![CDATA[/previenent-grace-along-the-highway/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -569,7 +569,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/communion/]]></loc>
+		<loc><![CDATA[/communion/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -578,7 +578,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/contemporary-worship-things-that-bug-me/]]></loc>
+		<loc><![CDATA[/contemporary-worship-things-that-bug-me/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -587,7 +587,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/thinking-about-good-friday/]]></loc>
+		<loc><![CDATA[/thinking-about-good-friday/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -596,7 +596,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/the-biggest-single-change-for-pastors/]]></loc>
+		<loc><![CDATA[/the-biggest-single-change-for-pastors/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -605,7 +605,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/contemporary-worship-in-a-traditional-sanctuary/]]></loc>
+		<loc><![CDATA[/contemporary-worship-in-a-traditional-sanctuary/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -614,7 +614,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/preaching-for-decisions-know-when-to-land-the-sermon/]]></loc>
+		<loc><![CDATA[/preaching-for-decisions-know-when-to-land-the-sermon/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -623,7 +623,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/during-communion/]]></loc>
+		<loc><![CDATA[/during-communion/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -632,7 +632,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/pastors-need-mondays/]]></loc>
+		<loc><![CDATA[/pastors-need-mondays/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -641,7 +641,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/pastor-appreciation-why-some-churches-dont-do-it/]]></loc>
+		<loc><![CDATA[/pastor-appreciation-why-some-churches-dont-do-it/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -650,7 +650,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/pastor-this-is-real-commitment/]]></loc>
+		<loc><![CDATA[/pastor-this-is-real-commitment/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -659,7 +659,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/good-friday/]]></loc>
+		<loc><![CDATA[/good-friday/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -668,7 +668,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/good-friday-is-a-no-parking-zone/]]></loc>
+		<loc><![CDATA[/good-friday-is-a-no-parking-zone/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -677,7 +677,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/holy-saturday/]]></loc>
+		<loc><![CDATA[/holy-saturday/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -686,7 +686,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/thinking-about-the-tomb-that-first-easter-morning/]]></loc>
+		<loc><![CDATA[/thinking-about-the-tomb-that-first-easter-morning/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -695,7 +695,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/have-church-people-stopped-singing/]]></loc>
+		<loc><![CDATA[/have-church-people-stopped-singing/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -704,7 +704,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/maybe-pastors-should-stop-talking-about-football/]]></loc>
+		<loc><![CDATA[/maybe-pastors-should-stop-talking-about-football/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -713,7 +713,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-1/]]></loc>
+		<loc><![CDATA[/coronaverses-1/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -722,7 +722,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-2/]]></loc>
+		<loc><![CDATA[/coronaverses-2/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -731,7 +731,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-03/]]></loc>
+		<loc><![CDATA[/coronaverses-03/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -740,7 +740,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-04/]]></loc>
+		<loc><![CDATA[/coronaverses-04/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -749,7 +749,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-05/]]></loc>
+		<loc><![CDATA[/coronaverses-05/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -758,7 +758,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-06/]]></loc>
+		<loc><![CDATA[/coronaverses-06/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -767,7 +767,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-07/]]></loc>
+		<loc><![CDATA[/coronaverses-07/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -776,7 +776,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-08/]]></loc>
+		<loc><![CDATA[/coronaverses-08/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -785,7 +785,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-09/]]></loc>
+		<loc><![CDATA[/coronaverses-09/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -794,7 +794,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-10/]]></loc>
+		<loc><![CDATA[/coronaverses-10/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -803,7 +803,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-11/]]></loc>
+		<loc><![CDATA[/coronaverses-11/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -812,7 +812,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-12/]]></loc>
+		<loc><![CDATA[/coronaverses-12/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -821,7 +821,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-13/]]></loc>
+		<loc><![CDATA[/coronaverses-13/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -830,7 +830,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-14/]]></loc>
+		<loc><![CDATA[/coronaverses-14/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -839,7 +839,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-15/]]></loc>
+		<loc><![CDATA[/coronaverses-15/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -848,7 +848,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-16/]]></loc>
+		<loc><![CDATA[/coronaverses-16/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -857,7 +857,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-17/]]></loc>
+		<loc><![CDATA[/coronaverses-17/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -866,7 +866,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-18/]]></loc>
+		<loc><![CDATA[/coronaverses-18/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -875,7 +875,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-19/]]></loc>
+		<loc><![CDATA[/coronaverses-19/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -884,7 +884,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-20/]]></loc>
+		<loc><![CDATA[/coronaverses-20/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -893,7 +893,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-21/]]></loc>
+		<loc><![CDATA[/coronaverses-21/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -902,7 +902,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-22/]]></loc>
+		<loc><![CDATA[/coronaverses-22/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -911,7 +911,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-23/]]></loc>
+		<loc><![CDATA[/coronaverses-23/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -920,7 +920,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-24/]]></loc>
+		<loc><![CDATA[/coronaverses-24/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -929,7 +929,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-25/]]></loc>
+		<loc><![CDATA[/coronaverses-25/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -938,7 +938,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-26/]]></loc>
+		<loc><![CDATA[/coronaverses-26/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -947,7 +947,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-27/]]></loc>
+		<loc><![CDATA[/coronaverses-27/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -956,7 +956,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-28/]]></loc>
+		<loc><![CDATA[/coronaverses-28/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -965,7 +965,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-29/]]></loc>
+		<loc><![CDATA[/coronaverses-29/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -974,7 +974,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-30/]]></loc>
+		<loc><![CDATA[/coronaverses-30/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -983,7 +983,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-31/]]></loc>
+		<loc><![CDATA[/coronaverses-31/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -992,7 +992,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-32/]]></loc>
+		<loc><![CDATA[/coronaverses-32/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1001,7 +1001,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-33/]]></loc>
+		<loc><![CDATA[/coronaverses-33/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1010,7 +1010,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-34/]]></loc>
+		<loc><![CDATA[/coronaverses-34/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1019,7 +1019,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-35/]]></loc>
+		<loc><![CDATA[/coronaverses-35/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1028,7 +1028,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-36/]]></loc>
+		<loc><![CDATA[/coronaverses-36/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1037,7 +1037,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-37/]]></loc>
+		<loc><![CDATA[/coronaverses-37/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1046,7 +1046,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-38/]]></loc>
+		<loc><![CDATA[/coronaverses-38/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1055,7 +1055,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-39/]]></loc>
+		<loc><![CDATA[/coronaverses-39/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1064,7 +1064,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-40/]]></loc>
+		<loc><![CDATA[/coronaverses-40/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1073,7 +1073,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-41/]]></loc>
+		<loc><![CDATA[/coronaverses-41/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1082,7 +1082,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-42/]]></loc>
+		<loc><![CDATA[/coronaverses-42/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1091,7 +1091,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-43/]]></loc>
+		<loc><![CDATA[/coronaverses-43/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -1100,13 +1100,13 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/coronaverses-wrap-up/]]></loc>
+		<loc><![CDATA[/coronaverses-wrap-up/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:08+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/index.php/christmas-is-a-hard-time-for-a-lot-of-people/]]></loc>
+		<loc><![CDATA[/christmas-is-a-hard-time-for-a-lot-of-people/]]></loc>
 		<lastmod><![CDATA[2023-12-14T18:53:07+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
