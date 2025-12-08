@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on April 29, 2025 at 11:22 pm by All in One SEO v4.8.1.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on December 8, 2025 at 8:31 pm by All in One SEO v4.9.1.1 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=post"?>
+<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[/missing-the-christmas-carols/]]></loc>
+		<lastmod><![CDATA[2025-12-08T20:29:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
 	<url>
 		<loc><![CDATA[/charlestown-in-church-of-the-nazarene/]]></loc>
 		<lastmod><![CDATA[2025-04-29T22:03:14+00:00]]></lastmod>
@@ -19,7 +25,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSdrlIhp_tR8auEVLegPE0vt7Y0OxsHxR87g5p9dAdMMDSMg6fNkObXN9Zkut0KCGdx2EL5KeK22pI1h40ISTPW3h1BMLqXhdO3fSm74VUMVhGZVfvFHhQD-U0ZlEGhvD4b9ts2vr1igrNWytiUF15rnJ3rJQnls8D5nlG5qUNMuYGVX5mxR0Ml_BWI5I/s4032/20230425_114618.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFSdrlIhp_tR8auEVLegPE0vt7Y0OxsHxR87g5p9dAdMMDSMg6fNkObXN9Zkut0KCGdx2EL5KeK22pI1h40ISTPW3h1BMLqXhdO3fSm74VUMVhGZVfvFHhQD-U0ZlEGhvD4b9ts2vr1igrNWytiUF15rnJ3rJQnls8D5nlG5qUNMuYGVX5mxR0Ml_BWI5I/s4032/20230425_114618.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -28,7 +35,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdAHzSftxp6WqcVNqrBwX_-IFOGpkAfhgefkAu3SwTxVxEW2jTIpJltYnrOjo5AsiHUIt2kCWiuh5s90k6pfNEdKDmXPn7kdEuqtb5D1XDPSeAG9gQYcdTXkK8Fiuejw05cAJkLJPYNInb_THS4YNmYYIU2Ce-HGNOc0mtN70Av42DZiARYnk0Kxm2cSgJ/s4032/20230425_111740.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdAHzSftxp6WqcVNqrBwX_-IFOGpkAfhgefkAu3SwTxVxEW2jTIpJltYnrOjo5AsiHUIt2kCWiuh5s90k6pfNEdKDmXPn7kdEuqtb5D1XDPSeAG9gQYcdTXkK8Fiuejw05cAJkLJPYNInb_THS4YNmYYIU2Ce-HGNOc0mtN70Av42DZiARYnk0Kxm2cSgJ/s4032/20230425_111740.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -37,7 +45,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzm2pGCZ8ULx4zi0C1t-iVryd4uCiIgg1S5V8bTIWGDBmTW_tsumVuzTpNILhXg5HEGvyUYpet-NFwqvx1ERZeFB9LtDEPBGJmJhPuK2aTpVgy3uPLl4RPRqScXBdwp04TZN4WLiozXWHUvE5CrlKQqpJy2MFU_a6pKPrpEwHNRxn0sV0mOzPi1_8kflbw/s4032/20230424_123915.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzm2pGCZ8ULx4zi0C1t-iVryd4uCiIgg1S5V8bTIWGDBmTW_tsumVuzTpNILhXg5HEGvyUYpet-NFwqvx1ERZeFB9LtDEPBGJmJhPuK2aTpVgy3uPLl4RPRqScXBdwp04TZN4WLiozXWHUvE5CrlKQqpJy2MFU_a6pKPrpEwHNRxn0sV0mOzPi1_8kflbw/s4032/20230424_123915.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -46,7 +55,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2014/01/thimbles.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2014/01/thimbles.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -55,7 +65,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-IdWUlqxdQRA/Wy8JjHnFjDI/AAAAAAAAzDQ/2v6UdxPiU3ck_E1C5OY32beH1edYXc49QCKgBGAs/s1600/2013-07-04%2B12.11.39.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-IdWUlqxdQRA/Wy8JjHnFjDI/AAAAAAAAzDQ/2v6UdxPiU3ck_E1C5OY32beH1edYXc49QCKgBGAs/s1600/2013-07-04%2B12.11.39.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -64,7 +75,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2015/04/empty-tomb-300x196.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2015/04/empty-tomb-300x196.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -73,7 +85,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2019/12/heismen.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2019/12/heismen.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -82,7 +95,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-7OBQw1_WDcg/XnY4vuil2iI/AAAAAAABEF8/3q1HtCA3x24urh9_ARGlOKmzV7O6fkMzQCKgBGAsYHg/s1600/coronverses04.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-7OBQw1_WDcg/XnY4vuil2iI/AAAAAAABEF8/3q1HtCA3x24urh9_ARGlOKmzV7O6fkMzQCKgBGAsYHg/s1600/coronverses04.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -91,7 +105,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2008/12/Christmas.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2008/12/Christmas.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -100,7 +115,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/04/ebbd0889-9039-48b4-8cab-22a7d8c0bafe.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2024/04/ebbd0889-9039-48b4-8cab-22a7d8c0bafe.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -109,7 +125,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/05/road.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2024/05/road.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -118,7 +135,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLurhOhF9DR6R5LNQ5Zqn5cIgaXSO6kVFj52MdLMJAoGa_dfxfmdf0kngPtt97Gy3aOgLvbEBC0kiTnhN1jqjlSNUO1Rdq4ossiNNCIYfO8w8DwT385qqpKTbpvGweMsZ75ZfuBiNbk76b-kabzZmJs4__xqOVYvL-bmxyxAuQxYfOQzz7XgIXmOMbsEA9/s4032/20230424_114815.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLurhOhF9DR6R5LNQ5Zqn5cIgaXSO6kVFj52MdLMJAoGa_dfxfmdf0kngPtt97Gy3aOgLvbEBC0kiTnhN1jqjlSNUO1Rdq4ossiNNCIYfO8w8DwT385qqpKTbpvGweMsZ75ZfuBiNbk76b-kabzZmJs4__xqOVYvL-bmxyxAuQxYfOQzz7XgIXmOMbsEA9/s4032/20230424_114815.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -127,7 +145,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuuizvxbryMKJDoT7OFMm5y1_5rFMVv8gReLwvv5ZtpAO77PaLyvoO569XSuDJHr_QDZJABbHs6OG1GXQLDGXD7ZxDBDNfHrZxIh4JtAcqEtaQzQUArCWApC5V_yFFxWNQSdtCJVhTO0ioJ705Czpwhe778K4G9kqDqb9BkHdacbs5vTNO6r7xrSCkww4/s4032/20230424_114824.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuuizvxbryMKJDoT7OFMm5y1_5rFMVv8gReLwvv5ZtpAO77PaLyvoO569XSuDJHr_QDZJABbHs6OG1GXQLDGXD7ZxDBDNfHrZxIh4JtAcqEtaQzQUArCWApC5V_yFFxWNQSdtCJVhTO0ioJ705Czpwhe778K4G9kqDqb9BkHdacbs5vTNO6r7xrSCkww4/s4032/20230424_114824.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -136,10 +155,12 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://lh4.googleusercontent.com/-YGAhC-QYXkY/U2aVH8mGusI/AAAAAAAAbvg/2CsvDHkmfXQ/s800/PHOTO_20140502_173747.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://lh4.googleusercontent.com/-YGAhC-QYXkY/U2aVH8mGusI/AAAAAAAAbvg/2CsvDHkmfXQ/s800/PHOTO_20140502_173747.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNDi-xn4rfOAZkCVVZTcN1H3qOHO-bZwTsIpY6mgT9etFUuvl37P4M3CZg9_jZzhSekrLLEs-aUq7Z818edOAtvXA2DZU46NNnu1ln5z5uCbW6LP4qKQPHduFAyrtmkO0hcivmLdRMrfEsrHumT30BLa96KIQUKe9b6yAzAXBg5wwAimhTBiHutU1XEzDs/s4032/20230424_105959.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNDi-xn4rfOAZkCVVZTcN1H3qOHO-bZwTsIpY6mgT9etFUuvl37P4M3CZg9_jZzhSekrLLEs-aUq7Z818edOAtvXA2DZU46NNnu1ln5z5uCbW6LP4qKQPHduFAyrtmkO0hcivmLdRMrfEsrHumT30BLa96KIQUKe9b6yAzAXBg5wwAimhTBiHutU1XEzDs/s4032/20230424_105959.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -148,7 +169,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIg3rI47ntrKfSJl2rRlEYzCVyY7yOl3p4UNb5b-GDS9LMbYczmbCx1-OKZC1mZAKwilCEhTSDFVnNr3_JnAr9grNhYME61aKES9x7pyHZNQNrJxjsesTrR8To6ooeVzwsocnKegRhKGYve8GjElYqXcvT6yb_Zsc24DbXhQt6uxY8AR7kgqx59wYP8sk2/s4032/20230424_121021.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIg3rI47ntrKfSJl2rRlEYzCVyY7yOl3p4UNb5b-GDS9LMbYczmbCx1-OKZC1mZAKwilCEhTSDFVnNr3_JnAr9grNhYME61aKES9x7pyHZNQNrJxjsesTrR8To6ooeVzwsocnKegRhKGYve8GjElYqXcvT6yb_Zsc24DbXhQt6uxY8AR7kgqx59wYP8sk2/s4032/20230424_121021.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -157,7 +179,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidIpdNyM6R9bFjywwSw4kPkZErV6JT_7MJHpx2k7C6WbhxiEaXC8kGwiVF-u3LTcyaoLIpmiZLF9ZQjKZcCWlA4WAeU-qiI8mavxNts1BMGEgGDm83gJvICcWiqrs6NUJeIASgtKj9sQgIBOePapuwP4_MNDbXaS4wJWXlH2BOgg57afuq-zs76ICI4K-a/s4032/20230424_121140.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidIpdNyM6R9bFjywwSw4kPkZErV6JT_7MJHpx2k7C6WbhxiEaXC8kGwiVF-u3LTcyaoLIpmiZLF9ZQjKZcCWlA4WAeU-qiI8mavxNts1BMGEgGDm83gJvICcWiqrs6NUJeIASgtKj9sQgIBOePapuwP4_MNDbXaS4wJWXlH2BOgg57afuq-zs76ICI4K-a/s4032/20230424_121140.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -166,7 +189,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKO65nEk2bPHbWnNK9o22Zv6z5pmfeMSP17mR4SYoO7DB5Bc82Lx4mPgLpvLGOG1EQUFgbD-xE17_fg354w6S9UFhXJOlPE9RY0dhjxfJWn_g7ALYEj9yNxm-emCvaBHNVs7gqXKKTAjiWhzJDWVMsbUTY5A_xamv8G-qSwiTiwoyeWscN9r_jgLDc9xTT/s4032/20230425_114825.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKO65nEk2bPHbWnNK9o22Zv6z5pmfeMSP17mR4SYoO7DB5Bc82Lx4mPgLpvLGOG1EQUFgbD-xE17_fg354w6S9UFhXJOlPE9RY0dhjxfJWn_g7ALYEj9yNxm-emCvaBHNVs7gqXKKTAjiWhzJDWVMsbUTY5A_xamv8G-qSwiTiwoyeWscN9r_jgLDc9xTT/s4032/20230425_114825.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -175,7 +199,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3fgmcbmdzzry2LxZG22VqvKlJJX3glyZe8oQUMnBtP8sV8wbk4ne9ZtHcaF915bSqzNjUVF_jpYCZSLiY_sb56cakCw_ox_4iUq9jlVKqFiqLgjI8IyMrtlLNFFvE-UWVYPXexKDkXIDfQ3A8hMed8FkMDGzZbmb7cooe8H-n6MLmEaZcQj4UU5xTnWs/s4608/20230425_115347.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3fgmcbmdzzry2LxZG22VqvKlJJX3glyZe8oQUMnBtP8sV8wbk4ne9ZtHcaF915bSqzNjUVF_jpYCZSLiY_sb56cakCw_ox_4iUq9jlVKqFiqLgjI8IyMrtlLNFFvE-UWVYPXexKDkXIDfQ3A8hMed8FkMDGzZbmb7cooe8H-n6MLmEaZcQj4UU5xTnWs/s4608/20230425_115347.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -184,7 +209,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLm_bD7ETqocUpMMVmBlbCGqE6vBzdm6QG-4Z7q4lS5B8VNICE7fUqHvWqSsMfiBtM34JMqLAasZdjBkT_smt9qP8jZbnyyMkiQ6u9bPKa4hdZCEX_7bKiZVK7_cTW-p8MSNx-G65MggAzoPLwbJzxmi053QATYKjT2_qJ60qAxOlGFGfs1sN27RRL6V9F/s4608/20230425_120604.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLm_bD7ETqocUpMMVmBlbCGqE6vBzdm6QG-4Z7q4lS5B8VNICE7fUqHvWqSsMfiBtM34JMqLAasZdjBkT_smt9qP8jZbnyyMkiQ6u9bPKa4hdZCEX_7bKiZVK7_cTW-p8MSNx-G65MggAzoPLwbJzxmi053QATYKjT2_qJ60qAxOlGFGfs1sN27RRL6V9F/s4608/20230425_120604.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -193,7 +219,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL9f3_ZKGUNcs-anikPtpGNUsgFTSUFr0a0omPS-T0kVKnwOsuirdH92BS2pN991qUJcOsl3fP7h9PmE7RNFcbEELLuMT-G1T8A5OV_XWfbazJj7Kiy1q0NpfCPeHzn8Ktg4y4YcADRHYN6-spOt0gv5phZkmS8J4NA-pbqrcSRbhouQFyJJqzilslYSeC/s4608/20230425_120652.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL9f3_ZKGUNcs-anikPtpGNUsgFTSUFr0a0omPS-T0kVKnwOsuirdH92BS2pN991qUJcOsl3fP7h9PmE7RNFcbEELLuMT-G1T8A5OV_XWfbazJj7Kiy1q0NpfCPeHzn8Ktg4y4YcADRHYN6-spOt0gv5phZkmS8J4NA-pbqrcSRbhouQFyJJqzilslYSeC/s4608/20230425_120652.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -202,7 +229,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwD_CjP9fxzfRAqhdZjebYuz4YdCUvivTT8iO0ppE40uudCahs0GxSZUgfQH63gvGCzZisQwqQFb78HdMj5ypc4lIM1-cS2RDL77VQxcBJnLSOSOFYDeyeCOQJ6-C5s3mfy4zrPPBc6OPBcSTkMqQbhwaFIYdxkG3mn_fOtWGMA51A8VyMq1zsTmnwzgd5/s4608/20230429_140146.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwD_CjP9fxzfRAqhdZjebYuz4YdCUvivTT8iO0ppE40uudCahs0GxSZUgfQH63gvGCzZisQwqQFb78HdMj5ypc4lIM1-cS2RDL77VQxcBJnLSOSOFYDeyeCOQJ6-C5s3mfy4zrPPBc6OPBcSTkMqQbhwaFIYdxkG3mn_fOtWGMA51A8VyMq1zsTmnwzgd5/s4608/20230429_140146.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -211,7 +239,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS2t1qxOhXjnuTNEm9lu3HAHQ4uOmd85stjPSCklm8hl40wdsBpK_fPOFQtMymW7Gbba8ZBsyeJ4MOohHfEEKncVLCqMUjEeEpZO-gLQyE596-DFugCm0o4zUs3E6ZOhV1KRdyd5gdjT_1kizpj_uujp-FY7MBbUtMeci-w-2JtAZoDnq9H8HxalEZwzy6/s4032/20230429_140453.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS2t1qxOhXjnuTNEm9lu3HAHQ4uOmd85stjPSCklm8hl40wdsBpK_fPOFQtMymW7Gbba8ZBsyeJ4MOohHfEEKncVLCqMUjEeEpZO-gLQyE596-DFugCm0o4zUs3E6ZOhV1KRdyd5gdjT_1kizpj_uujp-FY7MBbUtMeci-w-2JtAZoDnq9H8HxalEZwzy6/s4032/20230429_140453.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -220,7 +249,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiFaMj5-0lO7LSqebTJz9Q7VkKSpSWg95pMfgGqmj1gHPv3ixFs_SGxLPPuC_bNOxb6xj2jceY7Z89XDJ9deQwcV1KYbXlhMgxpdolwSF-HmyH303VGW1OFtFQS5QhlYrh-e6OlnQh7EB08PbsnsAszcl6T29HEL3i6Q0Nyepmzh_rSJJFbLSYjAai2jc5/s4032/20230429_141153.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiFaMj5-0lO7LSqebTJz9Q7VkKSpSWg95pMfgGqmj1gHPv3ixFs_SGxLPPuC_bNOxb6xj2jceY7Z89XDJ9deQwcV1KYbXlhMgxpdolwSF-HmyH303VGW1OFtFQS5QhlYrh-e6OlnQh7EB08PbsnsAszcl6T29HEL3i6Q0Nyepmzh_rSJJFbLSYjAai2jc5/s4032/20230429_141153.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -229,7 +259,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJKcao8NHZOVOmcD3XabRAr-7qYonRMxSt8KMyFX0FqCbitfI7s4IdIPkADa2lRcA28DsYs7YHNdHfz5H5V4LelVUJdT-fE__iYVAdazF-GbgdHz78MqNs00dRPvi_Ln4V9JgmIc14QiZZyGaDBkEd3_kFsfbJ3L4IrfhCZ32r2zpAUtgYeqj2ykGGLjNz/s4608/20230429_141718.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJKcao8NHZOVOmcD3XabRAr-7qYonRMxSt8KMyFX0FqCbitfI7s4IdIPkADa2lRcA28DsYs7YHNdHfz5H5V4LelVUJdT-fE__iYVAdazF-GbgdHz78MqNs00dRPvi_Ln4V9JgmIc14QiZZyGaDBkEd3_kFsfbJ3L4IrfhCZ32r2zpAUtgYeqj2ykGGLjNz/s4608/20230429_141718.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -238,7 +269,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5btFPxabAzIG_BcPRAbYh9rf-l-8EHTZTx4mI2UaTw1ShapZ27qD7Dhz9nYPDMlJ3TYZZnt10lX1AC7SV5GSXfhOjFjjumukb56fHYgP6-5mHD7J601WnkqAdwqCwTqw9S-zKolNOlbdUPMEboyiOj1LRu2n13OT01fKPhk2aavYjVUfjPUqAQEeP8BhG/s4032/20230509_102752.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5btFPxabAzIG_BcPRAbYh9rf-l-8EHTZTx4mI2UaTw1ShapZ27qD7Dhz9nYPDMlJ3TYZZnt10lX1AC7SV5GSXfhOjFjjumukb56fHYgP6-5mHD7J601WnkqAdwqCwTqw9S-zKolNOlbdUPMEboyiOj1LRu2n13OT01fKPhk2aavYjVUfjPUqAQEeP8BhG/s4032/20230509_102752.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -247,7 +279,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVA2eIIMalzvUL68YSCznxvEvrvcqiCl9CZAYNKTFCWFGWvuvMIS9TKKSMZXQ4CAYCiCgGP6LypP76m5Osks-4Id3ykelgOz6cslid89-O7DP_dkzYwSwOqZwOt0CDjL2bwYniR-sTXGWy1V4bz8LOSKqX-9s1sHRwd73SUbnHGhd1YukeQuZrKqr882iA/s4032/20230509_104455.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVA2eIIMalzvUL68YSCznxvEvrvcqiCl9CZAYNKTFCWFGWvuvMIS9TKKSMZXQ4CAYCiCgGP6LypP76m5Osks-4Id3ykelgOz6cslid89-O7DP_dkzYwSwOqZwOt0CDjL2bwYniR-sTXGWy1V4bz8LOSKqX-9s1sHRwd73SUbnHGhd1YukeQuZrKqr882iA/s4032/20230509_104455.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -256,7 +289,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYC0lFosI_2KIfTDkQ0nx8HL9jXyVGKht8T1gTUld5J9VFQL6U1o10L3gbfhDkboVQeOS6xXmGKq4DJmdHIQoyrcu-BIIvvyL-hdNkkTQF-6hGKfEACz15EavoH9ux5D3fVLglKD7Gzd7S4YaG6GPV1zyfZfwGmiGRLY6qJDdiBaLM02VyCMBAx4-dxIeb/s4032/20230509_111659.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYC0lFosI_2KIfTDkQ0nx8HL9jXyVGKht8T1gTUld5J9VFQL6U1o10L3gbfhDkboVQeOS6xXmGKq4DJmdHIQoyrcu-BIIvvyL-hdNkkTQF-6hGKfEACz15EavoH9ux5D3fVLglKD7Gzd7S4YaG6GPV1zyfZfwGmiGRLY6qJDdiBaLM02VyCMBAx4-dxIeb/s4032/20230509_111659.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -265,7 +299,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggTYmuS3EjKizFWrkYUkLBBtuLcFcJ2guRFo8jj5FRK5COy7n05sHGNmizpvQC47_QHFTQj4EGvq0CJbJao1V5X5wdbb2NAck2AXXdZc-ZI81sMRKe_vlfS9tJ5M5jRXscyU27CczAFct93Q09I9UL2Nb8bYRHZ9U8yNiXqoWwxBUoVkG2qg-_DGFalgMd/s4032/20230509_124617.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggTYmuS3EjKizFWrkYUkLBBtuLcFcJ2guRFo8jj5FRK5COy7n05sHGNmizpvQC47_QHFTQj4EGvq0CJbJao1V5X5wdbb2NAck2AXXdZc-ZI81sMRKe_vlfS9tJ5M5jRXscyU27CczAFct93Q09I9UL2Nb8bYRHZ9U8yNiXqoWwxBUoVkG2qg-_DGFalgMd/s4032/20230509_124617.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -274,7 +309,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqaVOEvmULfeImYq3TYsIM7GD4XmsBaciVrjKPhuKWIDYdt-iJSo9aZj2LBTv08qzZgc-SaaLvQXNNuBtcm7g2KA9RQdulMbw82T0t0SADrwPnUoxDeIAX2L9q4KiewQuOTdwxFc2TUQPRmIS0oq0qnx4-9p7l8Ue53aAl8mxdEoYVqjsKuwjf7J-4HMxl/s4032/20230515_114043.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqaVOEvmULfeImYq3TYsIM7GD4XmsBaciVrjKPhuKWIDYdt-iJSo9aZj2LBTv08qzZgc-SaaLvQXNNuBtcm7g2KA9RQdulMbw82T0t0SADrwPnUoxDeIAX2L9q4KiewQuOTdwxFc2TUQPRmIS0oq0qnx4-9p7l8Ue53aAl8mxdEoYVqjsKuwjf7J-4HMxl/s4032/20230515_114043.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -283,7 +319,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNqrkVa3U2hpXk6lRnw1l_2Bcmq5Hfmc2wi4LTLA1mn8v8hPYTA-Pns87qHGBXFil2iVIPJG73gQHI66hr5u_jzELUVBJ4WfnOTFfLQ5wfK9Gtto9DN6BiW-J_ei0bKvwcYBCSZg7oZRqrTnIScoQLIGf-oqhxSTn0kyab4xnSt71hUC8u3DEeiHbqVo0/s4608/20230515_142836.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNqrkVa3U2hpXk6lRnw1l_2Bcmq5Hfmc2wi4LTLA1mn8v8hPYTA-Pns87qHGBXFil2iVIPJG73gQHI66hr5u_jzELUVBJ4WfnOTFfLQ5wfK9Gtto9DN6BiW-J_ei0bKvwcYBCSZg7oZRqrTnIScoQLIGf-oqhxSTn0kyab4xnSt71hUC8u3DEeiHbqVo0/s4608/20230515_142836.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -292,7 +329,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFSD2Foga1vqJNRY2-oX-yhgKjqPtXv-zNyBCfvkaaBJ5BCvoEYsMNP0fclsrfS_9QWSRy6uK-keh9WFvtUFhP-7cK2mDBoh8FVZ0rVo1FBFMStHswjIPHB4q4R6kSU_mFIOPGi-RZ3aXFvtGSvY_i_l7hvdVwTOKBhvxFIjsK19qTGYlP2x82zBPHlY2r/s4032/20230516_130319.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFSD2Foga1vqJNRY2-oX-yhgKjqPtXv-zNyBCfvkaaBJ5BCvoEYsMNP0fclsrfS_9QWSRy6uK-keh9WFvtUFhP-7cK2mDBoh8FVZ0rVo1FBFMStHswjIPHB4q4R6kSU_mFIOPGi-RZ3aXFvtGSvY_i_l7hvdVwTOKBhvxFIjsK19qTGYlP2x82zBPHlY2r/s4032/20230516_130319.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -301,7 +339,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAnDv3FkdhpJ5nGMfYBFuHg6sRBV-OJ1LFdwHAzLW2e55ycUfBxGufN6k0kvsFFdzTTFyt_VoHDKWTqc93q3h36PW2z6Unx6lMNy809XNS0gX7TAZWv8m8WHskocHZvFc21LYwsYrct8a_JB_e6aqYld5-LctzRV51W_01gVXs4PZHSiB9locb0UaUQKqI/s2048/flowers3.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAnDv3FkdhpJ5nGMfYBFuHg6sRBV-OJ1LFdwHAzLW2e55ycUfBxGufN6k0kvsFFdzTTFyt_VoHDKWTqc93q3h36PW2z6Unx6lMNy809XNS0gX7TAZWv8m8WHskocHZvFc21LYwsYrct8a_JB_e6aqYld5-LctzRV51W_01gVXs4PZHSiB9locb0UaUQKqI/s2048/flowers3.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -310,19 +349,24 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://2.bp.blogspot.com/_hfFNqoLYQa8/R1MWPXHTCKI/AAAAAAAABzQ/uSFX4gmQoOg/s160/PB232830.JPG]]></image:loc>
+			<image:loc>
+				<![CDATA[http://2.bp.blogspot.com/_hfFNqoLYQa8/R1MWPXHTCKI/AAAAAAAABzQ/uSFX4gmQoOg/s160/PB232830.JPG]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://4.bp.blogspot.com/_hfFNqoLYQa8/R1MWP3HTCLI/AAAAAAAABzY/8sKBhIU1oUk/s160/PC012849.JPG]]></image:loc>
+			<image:loc>
+				<![CDATA[http://4.bp.blogspot.com/_hfFNqoLYQa8/R1MWP3HTCLI/AAAAAAAABzY/8sKBhIU1oUk/s160/PC012849.JPG]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://3.bp.blogspot.com/_hfFNqoLYQa8/R1MWQnHTCMI/AAAAAAAABzg/j74DJ7MjNmM/s160/PC012851.JPG]]></image:loc>
+			<image:loc>
+				<![CDATA[http://3.bp.blogspot.com/_hfFNqoLYQa8/R1MWQnHTCMI/AAAAAAAABzg/j74DJ7MjNmM/s160/PC012851.JPG]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://1.bp.blogspot.com/_hfFNqoLYQa8/R1MWRHHTCNI/AAAAAAAABzo/OyzX0LS7QG8/s160/PC012861.JPG]]></image:loc>
+			<image:loc>
+				<![CDATA[http://1.bp.blogspot.com/_hfFNqoLYQa8/R1MWRHHTCNI/AAAAAAAABzo/OyzX0LS7QG8/s160/PC012861.JPG]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://photos1.blogger.com/pbp.gif]]></image:loc>
+			<image:loc>
+				<![CDATA[http://photos1.blogger.com/pbp.gif]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -331,7 +375,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE-ZMRlJIQn157Yshw4yZz532B00iWDH8rM4uiwu0eVio6WoOXAwE60g0bkvuS8MM7JxBPXCamrB-AZRe6mWYeeKFYgI6ohwfWXZTvNn0gUV-BuGUIi1ZrMrRTFTMJ0vhgihal3r1bPf56eqX2HC7z6E2ES6Dun8BF0fUD3XASS6J30EuS1GJG8iz4rzz/s2048/flowers4.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE-ZMRlJIQn157Yshw4yZz532B00iWDH8rM4uiwu0eVio6WoOXAwE60g0bkvuS8MM7JxBPXCamrB-AZRe6mWYeeKFYgI6ohwfWXZTvNn0gUV-BuGUIi1ZrMrRTFTMJ0vhgihal3r1bPf56eqX2HC7z6E2ES6Dun8BF0fUD3XASS6J30EuS1GJG8iz4rzz/s2048/flowers4.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -340,7 +385,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqS_RdvWgAfg8PuVP30b5X4wNLeuaEJs8HfNQCy-QPOHfLBcibxWfLCTVLH1jDs9YOYaMkMnjhTbCCe3luTTv302ZeRofhhC3ZjSc4CNXkgy2WTFb_zGEltGcWDnTT4CBJMWiy3d29YVh1jzjrhp2gEReqAPAprMKXKpEmN7QV0QwVztttQUZOgZqVqN6u/s2048/flowers5.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqS_RdvWgAfg8PuVP30b5X4wNLeuaEJs8HfNQCy-QPOHfLBcibxWfLCTVLH1jDs9YOYaMkMnjhTbCCe3luTTv302ZeRofhhC3ZjSc4CNXkgy2WTFb_zGEltGcWDnTT4CBJMWiy3d29YVh1jzjrhp2gEReqAPAprMKXKpEmN7QV0QwVztttQUZOgZqVqN6u/s2048/flowers5.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -349,7 +395,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtUcx-QYXq_iba68FmDyzey0lQh2_2k44Zd5qLu4ls1DpI6rklHDWu4K02NY8ZXNyJIJ79ErHIkFkXO8NlVkXQsQkxG8ggd1oALZj5gEAZivty9zupsK-Co03ax6o06fNiajHK9UDTtL3vM93Km0Km-9oWOE4lqxreZhEkYk2U0MMdy9JIdyR9gA7WHR9F/s4032/20230529_090133.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtUcx-QYXq_iba68FmDyzey0lQh2_2k44Zd5qLu4ls1DpI6rklHDWu4K02NY8ZXNyJIJ79ErHIkFkXO8NlVkXQsQkxG8ggd1oALZj5gEAZivty9zupsK-Co03ax6o06fNiajHK9UDTtL3vM93Km0Km-9oWOE4lqxreZhEkYk2U0MMdy9JIdyR9gA7WHR9F/s4032/20230529_090133.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -358,7 +405,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz-NOiUNHNnQn9WXEaSFmc0Wuk2mWlTIllo-S9hZew3KYmA9w9TrmgIruDpjPCqo4n4ZEvXx9G1Blds9myzxZYw38LY7pUmxvy2fszi1FQCgLkpwYyibbqi1nvtDCk1sL-_RwImlC97LGDwQwShXp70zyslFXfC0psJpxN7Df24khkx8jJzHf-yebWzMZl/s4032/20230529_100050.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz-NOiUNHNnQn9WXEaSFmc0Wuk2mWlTIllo-S9hZew3KYmA9w9TrmgIruDpjPCqo4n4ZEvXx9G1Blds9myzxZYw38LY7pUmxvy2fszi1FQCgLkpwYyibbqi1nvtDCk1sL-_RwImlC97LGDwQwShXp70zyslFXfC0psJpxN7Df24khkx8jJzHf-yebWzMZl/s4032/20230529_100050.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -367,7 +415,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn9KJUIjEkMYDrShCjJbdbQSNyOLt8UyDfgtQKF224v1Shr_3K43BKqH2ZlmGR5AsunMtTc2uMJ1ZAq5Li7EMMuTnRexIgYgJI1EYMZo09dOlb9Gryj2VAECfST6-7O-bD0kH1rH_T6Ojx3hxdKyOX-AiWFN3AyV7Z18I1qYVTQ6NEPcw6qofMzoF6IgYh/s4032/20230529_105429.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn9KJUIjEkMYDrShCjJbdbQSNyOLt8UyDfgtQKF224v1Shr_3K43BKqH2ZlmGR5AsunMtTc2uMJ1ZAq5Li7EMMuTnRexIgYgJI1EYMZo09dOlb9Gryj2VAECfST6-7O-bD0kH1rH_T6Ojx3hxdKyOX-AiWFN3AyV7Z18I1qYVTQ6NEPcw6qofMzoF6IgYh/s4032/20230529_105429.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -376,7 +425,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOmXoidFs60oHqC6WEL_MOhHQCQ5uYDbQ_SFNq_hinqo-l3y5T-uIOYxBt_TFbW8NhnpcwRdZ-I_AWmmBMJxhk3XO-0MsIGDsrAPrMyz9Nfd_lO5QyrZVOMXY7NN1-Zo0QPtu9PQK9jeT4RXH_XUslU_xEYP-8RLccDVIdemxQyjixyVXLfYCNiah_4iu/s4032/20230529_105442.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXOmXoidFs60oHqC6WEL_MOhHQCQ5uYDbQ_SFNq_hinqo-l3y5T-uIOYxBt_TFbW8NhnpcwRdZ-I_AWmmBMJxhk3XO-0MsIGDsrAPrMyz9Nfd_lO5QyrZVOMXY7NN1-Zo0QPtu9PQK9jeT4RXH_XUslU_xEYP-8RLccDVIdemxQyjixyVXLfYCNiah_4iu/s4032/20230529_105442.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -385,7 +435,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGYcwvLm7b0Z9nZC0VJSK_eaTYG7KPd0a2Cok5MX_rozA-Zn-_cCWixuGmANtz28LkxOLODuuZvw2WwgytoyPsx3WwBt2VEb9YYjX9ySPZWu991Fm0U_fyyttw0J_-hWN53blrfnb_BOL_FGoREFtquegaZjdAl_CncW1XJrMPfSgCbGsyx60zqjUs8irW/s4032/20230529_112927.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGYcwvLm7b0Z9nZC0VJSK_eaTYG7KPd0a2Cok5MX_rozA-Zn-_cCWixuGmANtz28LkxOLODuuZvw2WwgytoyPsx3WwBt2VEb9YYjX9ySPZWu991Fm0U_fyyttw0J_-hWN53blrfnb_BOL_FGoREFtquegaZjdAl_CncW1XJrMPfSgCbGsyx60zqjUs8irW/s4032/20230529_112927.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -394,7 +445,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidsRCoedg2neKoOzstJRjOAQbuyENz-WXEBZ6mAJUkxjJmNiN-rnw2rfag3GqekX93I5Y6e4m46sCrJuo0tt5jJXLuayDz0dTHEnvktq6yjVGTLVV7kTnZKc7HzWSuIiwd9ftVgAcZUNRy3FDJfWRIQRDYT5vCEQOGGoqFEmKSSrirFe3e80O_xJ0-Kd1v/s3794/20230529_122926.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidsRCoedg2neKoOzstJRjOAQbuyENz-WXEBZ6mAJUkxjJmNiN-rnw2rfag3GqekX93I5Y6e4m46sCrJuo0tt5jJXLuayDz0dTHEnvktq6yjVGTLVV7kTnZKc7HzWSuIiwd9ftVgAcZUNRy3FDJfWRIQRDYT5vCEQOGGoqFEmKSSrirFe3e80O_xJ0-Kd1v/s3794/20230529_122926.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -403,7 +455,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPF9Hqpd8DE-51REkleOPaTxRV8YppP1j7K6RUl268-QYJZWpmHHSWPPph_hVJOLtxIIZ-ExXq40QL4kX1SACQgibfVKTAY4ngzOjhUKdiJtm-ej9mAElk_k9l4pe9Oz34BLNaDsumoe480EpuxQ07UcK06Qxlx2rG8MQnnEHUeOfCU3KLMP4g-zA22wFV/s4032/20230529_191906.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPF9Hqpd8DE-51REkleOPaTxRV8YppP1j7K6RUl268-QYJZWpmHHSWPPph_hVJOLtxIIZ-ExXq40QL4kX1SACQgibfVKTAY4ngzOjhUKdiJtm-ej9mAElk_k9l4pe9Oz34BLNaDsumoe480EpuxQ07UcK06Qxlx2rG8MQnnEHUeOfCU3KLMP4g-zA22wFV/s4032/20230529_191906.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -412,7 +465,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Losp_-GIF2QApp7ixOhxGn7d93umJ3QH5NTam5Jg1XLjJla3Ul5zJumjjoD7tKAN3UcdeQJHx2xo0v6AwU7PoRniYYbSQ7TVhZ_VIgB89Cdd-L5Qy-_lqRGD8pZF5bc3NTaa_eEL1VINgq1cKMV2J5pVhAnVDcXiQn4SIcAsS5V72isw1GsZQReKbq9o/s2048/snow.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Losp_-GIF2QApp7ixOhxGn7d93umJ3QH5NTam5Jg1XLjJla3Ul5zJumjjoD7tKAN3UcdeQJHx2xo0v6AwU7PoRniYYbSQ7TVhZ_VIgB89Cdd-L5Qy-_lqRGD8pZF5bc3NTaa_eEL1VINgq1cKMV2J5pVhAnVDcXiQn4SIcAsS5V72isw1GsZQReKbq9o/s2048/snow.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -421,7 +475,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyXctUeKxKnfvnmefOq5R5j1-VnHa5FZdhGFHxjEBeelq5Ycyj1MBVa5OmtpzdZLXfBKjWNcGlGQXk0nEOs0StxJ-BpJ4g1Jf48QPahiaiiSCrdyZ9YKp1VqRHUF-jK8ipElFTN5YcWsjT-5x6eA6uHCYzKnNwZH26oyLDkEw1k7CsORhBYUfRNN8XWyG4/s3218/20240110_132850.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyXctUeKxKnfvnmefOq5R5j1-VnHa5FZdhGFHxjEBeelq5Ycyj1MBVa5OmtpzdZLXfBKjWNcGlGQXk0nEOs0StxJ-BpJ4g1Jf48QPahiaiiSCrdyZ9YKp1VqRHUF-jK8ipElFTN5YcWsjT-5x6eA6uHCYzKnNwZH26oyLDkEw1k7CsORhBYUfRNN8XWyG4/s3218/20240110_132850.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -430,7 +485,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG3UYj4MPNsfkJ3fOL27V8A-0KDuLWGgdT-zD6gkfOcOsHxAGIp_TzysTAgACpB2-wBJxKpxALpHW8_6mY-17kt1wUfnJhehNvNC0cQZuiMvahW2_IzCKHPulNJHqG49G4QST2IEyGq_M6btyjS219De-bFkiAFVC-IrKHI7ufEhn_geMhSis082EcOxcc/s3208/20240111_170136.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG3UYj4MPNsfkJ3fOL27V8A-0KDuLWGgdT-zD6gkfOcOsHxAGIp_TzysTAgACpB2-wBJxKpxALpHW8_6mY-17kt1wUfnJhehNvNC0cQZuiMvahW2_IzCKHPulNJHqG49G4QST2IEyGq_M6btyjS219De-bFkiAFVC-IrKHI7ufEhn_geMhSis082EcOxcc/s3208/20240111_170136.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -439,7 +495,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYWInIl4zSt98ax_4tOijmHjWGQdhIwAXGPA0cXvLrl9mgOOar4Yp-uglvDfNqrkRXd2JBkkGI70JHNYP_5aTc7w-zacLydg6mWXiykKlWqB-cKvzp0HZ9Z4bcvk1K6igRIca_9_P0EOmzQlsk3bM6lUlaSbb8P-cvOdf-fbapmZ6dY-HGU2ciacDuJXFK/s4032/20231124_111414.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYWInIl4zSt98ax_4tOijmHjWGQdhIwAXGPA0cXvLrl9mgOOar4Yp-uglvDfNqrkRXd2JBkkGI70JHNYP_5aTc7w-zacLydg6mWXiykKlWqB-cKvzp0HZ9Z4bcvk1K6igRIca_9_P0EOmzQlsk3bM6lUlaSbb8P-cvOdf-fbapmZ6dY-HGU2ciacDuJXFK/s4032/20231124_111414.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -448,7 +505,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-RTpd5MuxUoCwPaNuDML7cpfRYB-xZcW9-lJTyFflDADmKfSThs7aKLfBu0eLfH2O7mvQpf2Tj9Reu4H88i0Yl8tGf8RrewT26pdOOvQmVqoyJE6n2S8qRckioBkmp6zF6riOxXs1YVl95ENmmu4OoD88gHHqbKt4R-BDzc26KzYp8PbrWuzzcU-YfjGS/s4032/20240107_175007.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-RTpd5MuxUoCwPaNuDML7cpfRYB-xZcW9-lJTyFflDADmKfSThs7aKLfBu0eLfH2O7mvQpf2Tj9Reu4H88i0Yl8tGf8RrewT26pdOOvQmVqoyJE6n2S8qRckioBkmp6zF6riOxXs1YVl95ENmmu4OoD88gHHqbKt4R-BDzc26KzYp8PbrWuzzcU-YfjGS/s4032/20240107_175007.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -463,7 +521,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2017/04/arose.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2017/04/arose.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -472,10 +531,12 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/04/checkmark.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2018/04/checkmark.png]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/04/facebook-mobile-app.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2018/04/facebook-mobile-app.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -484,7 +545,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2011/12/notredame.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2011/12/notredame.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -493,16 +555,20 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.10.01.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.10.01.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.10.51.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.10.51.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.11.04.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.11.04.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.10.19.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.10.19.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -511,7 +577,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2013/08/lets_make_a_deal_doors.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2013/08/lets_make_a_deal_doors.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -520,7 +587,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2013/10/logo-Pastor_Appreciation_Month.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2013/10/logo-Pastor_Appreciation_Month.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -529,7 +597,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2023/10/girl.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/wp-content/uploads/2023/10/girl.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -568,7 +637,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2009/10/home-of-300x225.png]]></image:loc>
+			<image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2009/10/home-of-300x225.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -577,10 +647,12 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2009/10/pa185779-300x225.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2009/10/pa185779-300x225.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2009/10/pa185780-300x225.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2009/10/pa185780-300x225.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -607,7 +679,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://transformaelmundo.files.wordpress.com/2015/03/phineas-bresee.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://transformaelmundo.files.wordpress.com/2015/03/phineas-bresee.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -616,7 +689,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2013/04/2013-04-15-10.32.25-300x169.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2013/04/2013-04-15-10.32.25-300x169.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -625,7 +699,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2014/01/communion-300x200.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2014/01/communion-300x200.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -634,7 +709,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-hRbSeP0QLQQ/TxxXBZ3_jWI/AAAAAAAATo8/NB7ECQfbCbo/s1600/zachaeous.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-hRbSeP0QLQQ/TxxXBZ3_jWI/AAAAAAAATo8/NB7ECQfbCbo/s1600/zachaeous.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -643,7 +719,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2015/04/old-rugged-cross1-300x200.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2015/04/old-rugged-cross1-300x200.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -652,7 +729,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2016/09/preaching-300x126.png]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2016/09/preaching-300x126.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -661,7 +739,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2016/12/drums-1-300x168.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2016/12/drums-1-300x168.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -670,7 +749,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2017/03/landing-300x213.jpeg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2017/03/landing-300x213.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -679,7 +759,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2017/08/tray-300x225.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2017/08/tray-300x225.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -688,7 +769,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2017/10/thumbsup-163x300.png]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2017/10/thumbsup-163x300.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -697,7 +779,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-OIPxWg7XI4c/XBQDvFyKd8I/AAAAAAAA3-4/e6JgfdV0Bio3wJ-Nw4tC5c1p5-C0s3JQwCKgBGAs/s1600/photo.JPG]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-OIPxWg7XI4c/XBQDvFyKd8I/AAAAAAAA3-4/e6JgfdV0Bio3wJ-Nw4tC5c1p5-C0s3JQwCKgBGAs/s1600/photo.JPG]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -706,7 +789,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2018/03/cross.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2018/03/cross.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -715,7 +799,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2015/04/parking.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2015/04/parking.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -724,7 +809,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2018/03/1-300x169.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2018/03/1-300x169.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -733,7 +819,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[http://localhost/speaking/wp-content/uploads/2019/09/worship-1024x594.jpg]]></image:loc>
+			<image:loc>
+				<![CDATA[http://localhost/speaking/wp-content/uploads/2019/09/worship-1024x594.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -742,7 +829,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-Ox8eiBrr-CE/XnJlYRt0r9I/AAAAAAABEDY/dueicabc7uQNBIwCQAq5VHcAYX3qXtqygCKgBGAsYHg/s1600/coronverses1.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-Ox8eiBrr-CE/XnJlYRt0r9I/AAAAAAABEDY/dueicabc7uQNBIwCQAq5VHcAYX3qXtqygCKgBGAsYHg/s1600/coronverses1.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -751,7 +839,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-lvjEx_C65iA/XnOGaN7tJkI/AAAAAAABEEQ/YWyOTTx0T40KW8b59LeN_Q2t8CF-J9Y4ACKgBGAsYHg/s1600/coronverses2.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-lvjEx_C65iA/XnOGaN7tJkI/AAAAAAABEEQ/YWyOTTx0T40KW8b59LeN_Q2t8CF-J9Y4ACKgBGAsYHg/s1600/coronverses2.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -760,7 +849,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-a1j4yg92l08/XnT4jC_qBFI/AAAAAAABEFA/nZlFTsj_fCQ39LlmFp3Cu2SYhetBLbKPgCKgBGAsYHg/s1600/coronverses3.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-a1j4yg92l08/XnT4jC_qBFI/AAAAAAABEFA/nZlFTsj_fCQ39LlmFp3Cu2SYhetBLbKPgCKgBGAsYHg/s1600/coronverses3.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -769,7 +859,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://2.bp.blogspot.com/-qjjyMwVE15Q/Xnfb5aFsPAI/AAAAAAABEHE/9ccq_AGQr8QPKg1ecKrLgHjJom1IYPtkACKgBGAsYHg/s1600/coronverses05.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://2.bp.blogspot.com/-qjjyMwVE15Q/Xnfb5aFsPAI/AAAAAAABEHE/9ccq_AGQr8QPKg1ecKrLgHjJom1IYPtkACKgBGAsYHg/s1600/coronverses05.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -778,7 +869,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-eBR-Q3ALARU/Xnjyw-GAzdI/AAAAAAABEH8/5ycCTPnmxMIjRs9xN1N1-8VtI8PEnGCNgCKgBGAsYHg/s1600/coronverses06.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-eBR-Q3ALARU/Xnjyw-GAzdI/AAAAAAABEH8/5ycCTPnmxMIjRs9xN1N1-8VtI8PEnGCNgCKgBGAsYHg/s1600/coronverses06.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -787,7 +879,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-UEJZvFzDzxg/Xno2McAJ_nI/AAAAAAABEVA/Ddswpr581nwRj9soyZmFywEXOUy1gKcqQCKgBGAsYHg/s1600/coronverses07.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-UEJZvFzDzxg/Xno2McAJ_nI/AAAAAAABEVA/Ddswpr581nwRj9soyZmFywEXOUy1gKcqQCKgBGAsYHg/s1600/coronverses07.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -796,7 +889,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-SpYTbMgxiIA/Xntz2YOJLLI/AAAAAAABEWA/UoCMgevAPWY89AfxNbUCoPD7NDwkFE4zgCKgBGAsYHg/s1600/coronverses08.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-SpYTbMgxiIA/Xntz2YOJLLI/AAAAAAABEWA/UoCMgevAPWY89AfxNbUCoPD7NDwkFE4zgCKgBGAsYHg/s1600/coronverses08.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -805,7 +899,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-BeROonygDUs/XnzhV2rOW3I/AAAAAAABEW0/fApAyICe55Ye27-gSS2TRl4ZwIUO7icgwCKgBGAsYHg/s1600/coronverses09.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-BeROonygDUs/XnzhV2rOW3I/AAAAAAABEW0/fApAyICe55Ye27-gSS2TRl4ZwIUO7icgwCKgBGAsYHg/s1600/coronverses09.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -814,7 +909,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-2JBo_526vNo/Xnzhv1hybzI/AAAAAAABEW8/hSgsWxPLS28tVhw2rmIBKUSHpOLqOsgvwCKgBGAsYHg/s1600/coronverses10.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-2JBo_526vNo/Xnzhv1hybzI/AAAAAAABEW8/hSgsWxPLS28tVhw2rmIBKUSHpOLqOsgvwCKgBGAsYHg/s1600/coronverses10.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -823,7 +919,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-s3vPHwFT6ys/Xn4vk3KdeuI/AAAAAAABEXw/k2Pk7kUd2oQrqyrLTB9-1DWh6iRzCpBsQCKgBGAsYHg/s1600/coronverses11.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-s3vPHwFT6ys/Xn4vk3KdeuI/AAAAAAABEXw/k2Pk7kUd2oQrqyrLTB9-1DWh6iRzCpBsQCKgBGAsYHg/s1600/coronverses11.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -832,7 +929,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-VrmJCydGzro/Xn9ZuZHf1zI/AAAAAAABEYs/8mbXKY5ylr8uIdP9BUSx-Qv1r5vO3A_pwCKgBGAsYHg/s1600/coronverses12.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-VrmJCydGzro/Xn9ZuZHf1zI/AAAAAAABEYs/8mbXKY5ylr8uIdP9BUSx-Qv1r5vO3A_pwCKgBGAsYHg/s1600/coronverses12.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -841,7 +939,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-GbDU_rnvKWI/XoEyV-whc5I/AAAAAAABEag/OL1bCx4aQ50TKRnkdthyyLUM4rzofj1LQCKgBGAsYHg/s1600/coronverses13.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-GbDU_rnvKWI/XoEyV-whc5I/AAAAAAABEag/OL1bCx4aQ50TKRnkdthyyLUM4rzofj1LQCKgBGAsYHg/s1600/coronverses13.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -850,7 +949,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-pbfGRFCfTv4/XoIkC6KLq2I/AAAAAAABEbc/sQEPQd3rsZowIu-CeGOir8KTJMxH7l7OwCKgBGAsYHg/s1600/coronverses14.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-pbfGRFCfTv4/XoIkC6KLq2I/AAAAAAABEbc/sQEPQd3rsZowIu-CeGOir8KTJMxH7l7OwCKgBGAsYHg/s1600/coronverses14.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -859,7 +959,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-dmZqehhk_Fk/XoOgt_4ObHI/AAAAAAABEcQ/TCBtdctdCacQmeaWglRibN4t_X0i5rGrgCKgBGAsYHg/s1600/coronverses15.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-dmZqehhk_Fk/XoOgt_4ObHI/AAAAAAABEcQ/TCBtdctdCacQmeaWglRibN4t_X0i5rGrgCKgBGAsYHg/s1600/coronverses15.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -868,7 +969,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-XfYZm6NX6-w/XoUNHY9MnWI/AAAAAAABEeU/FAzfHIIoA5IdZkkkxKdhecAWW2414vvYwCKgBGAsYHg/s1600/coronverses16.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-XfYZm6NX6-w/XoUNHY9MnWI/AAAAAAABEeU/FAzfHIIoA5IdZkkkxKdhecAWW2414vvYwCKgBGAsYHg/s1600/coronverses16.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -877,7 +979,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-1EKiIn6zUL4/XoYFcLa8LvI/AAAAAAABEfM/lEbdaczrCVYYtsYGP6gzDxSKGsJMEiMVgCKgBGAsYHg/s1600/coronverses17.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-1EKiIn6zUL4/XoYFcLa8LvI/AAAAAAABEfM/lEbdaczrCVYYtsYGP6gzDxSKGsJMEiMVgCKgBGAsYHg/s1600/coronverses17.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -886,7 +989,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-kLY4SCvZK_s/XoeXZ9x2GCI/AAAAAAABEgI/3p5MxLQVJA02KhWy9AOCY92r6AWzQLsxQCKgBGAsYHg/s1600/coronverses18.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-kLY4SCvZK_s/XoeXZ9x2GCI/AAAAAAABEgI/3p5MxLQVJA02KhWy9AOCY92r6AWzQLsxQCKgBGAsYHg/s1600/coronverses18.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -895,7 +999,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-HIwgfV8pzQU/XokBWkFo0mI/AAAAAAABEhc/Wp2HpnSq5ZkI6uz65E-XAHUesVvf-wv9ACKgBGAsYHg/s1600/coronverses19.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-HIwgfV8pzQU/XokBWkFo0mI/AAAAAAABEhc/Wp2HpnSq5ZkI6uz65E-XAHUesVvf-wv9ACKgBGAsYHg/s1600/coronverses19.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -904,7 +1009,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-CVBPwHtGrLw/XooGahNb6wI/AAAAAAABEik/hGuySAo5jekmdqXNusBCjNQab_FNqnjjgCKgBGAsYHg/s1600/coronverses20.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-CVBPwHtGrLw/XooGahNb6wI/AAAAAAABEik/hGuySAo5jekmdqXNusBCjNQab_FNqnjjgCKgBGAsYHg/s1600/coronverses20.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -913,7 +1019,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-_VonMXajZCc/XotDmWrakPI/AAAAAAABEjc/I3M8QrBdmhEQobZI-YXHFVskuBSeiqkAQCKgBGAsYHg/s1600/coronverses21.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-_VonMXajZCc/XotDmWrakPI/AAAAAAABEjc/I3M8QrBdmhEQobZI-YXHFVskuBSeiqkAQCKgBGAsYHg/s1600/coronverses21.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -922,7 +1029,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://2.bp.blogspot.com/-zc96YQfvxAo/XozRuq72VTI/AAAAAAABEkY/46fk2Ce5hZA_-oXFc_j8_tr7I-tetfZOACKgBGAsYHg/s1600/coronverses22.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://2.bp.blogspot.com/-zc96YQfvxAo/XozRuq72VTI/AAAAAAABEkY/46fk2Ce5hZA_-oXFc_j8_tr7I-tetfZOACKgBGAsYHg/s1600/coronverses22.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -931,7 +1039,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-3nGrg8eWwFc/Xo3iERp75qI/AAAAAAABElU/855ICZDHtqMd3dEpcCfp1b_AofwG6kM7gCKgBGAsYHg/s1600/coronverses23.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-3nGrg8eWwFc/Xo3iERp75qI/AAAAAAABElU/855ICZDHtqMd3dEpcCfp1b_AofwG6kM7gCKgBGAsYHg/s1600/coronverses23.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -940,7 +1049,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-p1gXdYZ-5Q8/Xo9Gcufe7yI/AAAAAAABEmQ/JHm6f7IqlFUX4pvOqbWvLcV9LQQjIOq8ACKgBGAsYHg/s1600/coronverses24.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-p1gXdYZ-5Q8/Xo9Gcufe7yI/AAAAAAABEmQ/JHm6f7IqlFUX4pvOqbWvLcV9LQQjIOq8ACKgBGAsYHg/s1600/coronverses24.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -949,7 +1059,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://2.bp.blogspot.com/-P_2denmmS_w/XpCkcFqg0EI/AAAAAAABEnI/JJnBlefOn4k472s_y1ir_MgfXZ4riqBSACKgBGAsYHg/s1600/coronverses25.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://2.bp.blogspot.com/-P_2denmmS_w/XpCkcFqg0EI/AAAAAAABEnI/JJnBlefOn4k472s_y1ir_MgfXZ4riqBSACKgBGAsYHg/s1600/coronverses25.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -958,7 +1069,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-bLOEMtq_SRc/XpI9HxhHCFI/AAAAAAABEoU/VQYiSmaHQUY17TNn_32vIFOprQ9pBrFkQCKgBGAsYHg/s1600/coronverses26.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-bLOEMtq_SRc/XpI9HxhHCFI/AAAAAAABEoU/VQYiSmaHQUY17TNn_32vIFOprQ9pBrFkQCKgBGAsYHg/s1600/coronverses26.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -967,7 +1079,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://2.bp.blogspot.com/-Ne8mlnBy3Pk/XpMqqYLWP4I/AAAAAAABEpM/aEuM0xGoFJAFqUD_-2MS1hyCqMCT548rACKgBGAsYHg/s1600/coronverses27.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://2.bp.blogspot.com/-Ne8mlnBy3Pk/XpMqqYLWP4I/AAAAAAABEpM/aEuM0xGoFJAFqUD_-2MS1hyCqMCT548rACKgBGAsYHg/s1600/coronverses27.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -976,7 +1089,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://2.bp.blogspot.com/-VjMOo0V7NCo/XpSgb3NZILI/AAAAAAABEqE/TB5wZsXgNtM4C-OnBRdESk8gIxF_blXzQCKgBGAsYHg/s1600/coronverses28.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://2.bp.blogspot.com/-VjMOo0V7NCo/XpSgb3NZILI/AAAAAAABEqE/TB5wZsXgNtM4C-OnBRdESk8gIxF_blXzQCKgBGAsYHg/s1600/coronverses28.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -985,7 +1099,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-VcJIt3t6Jn8/XpYXA4uL1rI/AAAAAAABErE/peoFhYD4QQsdFD9THyOlEzAC-AHiZ8L1ACKgBGAsYHg/s1600/coronverses29.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-VcJIt3t6Jn8/XpYXA4uL1rI/AAAAAAABErE/peoFhYD4QQsdFD9THyOlEzAC-AHiZ8L1ACKgBGAsYHg/s1600/coronverses29.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -994,7 +1109,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-FtOzyDvMLSw/Xpd78l4dGlI/AAAAAAABEr8/YG_Qr1xj018tZKUMluB4vWnzmAUw1Y09QCPcBGAsYHg/s1600/coronverses30.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-FtOzyDvMLSw/Xpd78l4dGlI/AAAAAAABEr8/YG_Qr1xj018tZKUMluB4vWnzmAUw1Y09QCPcBGAsYHg/s1600/coronverses30.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1003,7 +1119,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-V5lOCu1S8fs/XpivkV21C_I/AAAAAAABEsw/_1dQm_KCDLcPlCh7KHKHQKpJHP02Mw3ogCPcBGAsYHg/s1600/coronverses31.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-V5lOCu1S8fs/XpivkV21C_I/AAAAAAABEsw/_1dQm_KCDLcPlCh7KHKHQKpJHP02Mw3ogCPcBGAsYHg/s1600/coronverses31.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1012,7 +1129,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-XVNlt6JJtzw/XppYGDywVAI/AAAAAAABEvY/dTDfpyvQEZQ9KpGIlP3Z-QQzB14nvy9cACPcBGAsYHg/s1600/coronverses32.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-XVNlt6JJtzw/XppYGDywVAI/AAAAAAABEvY/dTDfpyvQEZQ9KpGIlP3Z-QQzB14nvy9cACPcBGAsYHg/s1600/coronverses32.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1021,7 +1139,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-CdqOLbKYfQ4/Xpt5_pCU0SI/AAAAAAABEwU/fYLvX_y9xw4okJZPicoVEgwbxdmljW90gCPcBGAsYHg/s1600/coronverses33.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-CdqOLbKYfQ4/Xpt5_pCU0SI/AAAAAAABEwU/fYLvX_y9xw4okJZPicoVEgwbxdmljW90gCPcBGAsYHg/s1600/coronverses33.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1030,7 +1149,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-bKC_yaJ_BJo/XpxvKvJdO1I/AAAAAAABExY/KFQOXcK5K5wLa5gIpYSaCuEgDcxQ3ro9QCPcBGAsYHg/s1600/coronverses34.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-bKC_yaJ_BJo/XpxvKvJdO1I/AAAAAAABExY/KFQOXcK5K5wLa5gIpYSaCuEgDcxQ3ro9QCPcBGAsYHg/s1600/coronverses34.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1039,7 +1159,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-F23NcdybV9o/Xp3gLupqWcI/AAAAAAABEyc/afJRlZ_fl4gIHpvUfPW8934lMga2-JKUQCPcBGAsYHg/s1600/coronverses35.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-F23NcdybV9o/Xp3gLupqWcI/AAAAAAABEyc/afJRlZ_fl4gIHpvUfPW8934lMga2-JKUQCPcBGAsYHg/s1600/coronverses35.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1048,7 +1169,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-GqedGAU87ew/Xp9nyUNnRfI/AAAAAAABEzY/zwy7Bq0cBTE28LJUJmLfg6iXLC4eO9pnQCPcBGAsYHg/s1600/coronverses36.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-GqedGAU87ew/Xp9nyUNnRfI/AAAAAAABEzY/zwy7Bq0cBTE28LJUJmLfg6iXLC4eO9pnQCPcBGAsYHg/s1600/coronverses36.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1057,7 +1179,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-8h0VU2uvf2E/XqCr5xOwEII/AAAAAAABE0k/QI1xeSbntrw4JVBtvovEMmGssVw8aBFfQCPcBGAsYHg/s1600/coronverses37.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-8h0VU2uvf2E/XqCr5xOwEII/AAAAAAABE0k/QI1xeSbntrw4JVBtvovEMmGssVw8aBFfQCPcBGAsYHg/s1600/coronverses37.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1066,7 +1189,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://1.bp.blogspot.com/-35SpL1oqfvo/XqILcco-jdI/AAAAAAABE1g/xHGLmRUJtJgYBloyuPsSTFqUBLL2mGzJgCPcBGAsYHg/s1600/coronverses38.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://1.bp.blogspot.com/-35SpL1oqfvo/XqILcco-jdI/AAAAAAABE1g/xHGLmRUJtJgYBloyuPsSTFqUBLL2mGzJgCPcBGAsYHg/s1600/coronverses38.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1075,7 +1199,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-dWdo0hNnOuw/XqNFEiGdYLI/AAAAAAABE20/I4z6-P0CfZo67CW6CSEhrIk8psATXOXZgCPcBGAsYHg/s1600/coronverses39.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-dWdo0hNnOuw/XqNFEiGdYLI/AAAAAAABE20/I4z6-P0CfZo67CW6CSEhrIk8psATXOXZgCPcBGAsYHg/s1600/coronverses39.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1084,7 +1209,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-c3MS1VX541c/XqTOy1yd7rI/AAAAAAABE50/Ri8FBEE_xkcbOkAEpv-4Wr23gi0fogcLwCPcBGAsYHg/s1600/coronverses40.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-c3MS1VX541c/XqTOy1yd7rI/AAAAAAABE50/Ri8FBEE_xkcbOkAEpv-4Wr23gi0fogcLwCPcBGAsYHg/s1600/coronverses40.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1093,7 +1219,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://4.bp.blogspot.com/-7ZV1N0-osgM/XqWgX989dlI/AAAAAAABE6s/VjL1qfV1Rkw_GzMfWNLHFYggipKpmB-qwCPcBGAsYHg/s1600/coronverses41.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://4.bp.blogspot.com/-7ZV1N0-osgM/XqWgX989dlI/AAAAAAABE6s/VjL1qfV1Rkw_GzMfWNLHFYggipKpmB-qwCPcBGAsYHg/s1600/coronverses41.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1102,7 +1229,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-spnfN-mtPEo/XqdGtvt158I/AAAAAAABE8E/s7PaPni1QHAJ_Fh3xnB7Ykddlt1ZJ1gCQCPcBGAsYHg/s1600/coronverses42.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-spnfN-mtPEo/XqdGtvt158I/AAAAAAABE8E/s7PaPni1QHAJ_Fh3xnB7Ykddlt1ZJ1gCQCPcBGAsYHg/s1600/coronverses42.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1111,7 +1239,8 @@
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://3.bp.blogspot.com/-4XjmXqADQVs/XqnTCshjMAI/AAAAAAABE9I/Fz50Dm1A3VQGfyGa6X3Lpkq3UG7xa4dKACPcBGAsYHg/s1600/coronverses43.png]]></image:loc>
+			<image:loc>
+				<![CDATA[https://3.bp.blogspot.com/-4XjmXqADQVs/XqnTCshjMAI/AAAAAAABE9I/Fz50Dm1A3VQGfyGa6X3Lpkq3UG7xa4dKACPcBGAsYHg/s1600/coronverses43.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
