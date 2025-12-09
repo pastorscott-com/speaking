@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on December 8, 2025 at 8:31 pm by All in One SEO v4.9.1.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on December 9, 2025 at 9:44 pm by All in One SEO v4.9.1.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset
@@ -8,10 +8,14 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/missing-the-christmas-carols/]]></loc>
-		<lastmod><![CDATA[2025-12-08T20:29:05+00:00]]></lastmod>
+		<loc><![CDATA[/singing-the-christmas-carols/]]></loc>
+		<lastmod><![CDATA[2025-12-09T21:43:18+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2025/12/image.jpg]]>			</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/charlestown-in-church-of-the-nazarene/]]></loc>
@@ -56,7 +60,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2014/01/thimbles.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2014/01/thimbles.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -76,7 +80,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2015/04/empty-tomb-300x196.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2015/04/empty-tomb-300x196.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -86,7 +90,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2019/12/heismen.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2019/12/heismen.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -106,7 +110,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2008/12/Christmas.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2008/12/Christmas.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -116,7 +120,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2024/04/ebbd0889-9039-48b4-8cab-22a7d8c0bafe.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2024/04/ebbd0889-9039-48b4-8cab-22a7d8c0bafe.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -126,7 +130,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2024/05/road.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2024/05/road.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -522,7 +526,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2017/04/arose.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2017/04/arose.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -532,11 +536,11 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2018/04/checkmark.png]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2018/04/checkmark.png]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2018/04/facebook-mobile-app.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2018/04/facebook-mobile-app.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -546,7 +550,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2011/12/notredame.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2011/12/notredame.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -556,19 +560,19 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.10.01.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2013/02/2013-02-06-12.10.01.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.10.51.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2013/02/2013-02-06-12.10.51.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.11.04.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2013/02/2013-02-06-12.11.04.jpg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2013/02/2013-02-06-12.10.19.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2013/02/2013-02-06-12.10.19.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -578,7 +582,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2013/08/lets_make_a_deal_doors.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2013/08/lets_make_a_deal_doors.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -588,7 +592,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2013/10/logo-Pastor_Appreciation_Month.jpg]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2013/10/logo-Pastor_Appreciation_Month.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -598,7 +602,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[/wp-content/uploads/2023/10/girl.png]]>			</image:loc>
+				<![CDATA[/pastorscott/speaking/wp-content/uploads/2023/10/girl.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -690,7 +694,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2013/04/2013-04-15-10.32.25-300x169.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2013/04/2013-04-15-10.32.25-300x169.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -700,7 +704,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2014/01/communion-300x200.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2014/01/communion-300x200.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -720,7 +724,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2015/04/old-rugged-cross1-300x200.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2015/04/old-rugged-cross1-300x200.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -730,7 +734,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2016/09/preaching-300x126.png]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2016/09/preaching-300x126.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -740,7 +744,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2016/12/drums-1-300x168.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2016/12/drums-1-300x168.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -750,7 +754,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2017/03/landing-300x213.jpeg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2017/03/landing-300x213.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -760,7 +764,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2017/08/tray-300x225.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2017/08/tray-300x225.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -770,7 +774,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2017/10/thumbsup-163x300.png]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2017/10/thumbsup-163x300.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -790,7 +794,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2018/03/cross.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2018/03/cross.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -800,7 +804,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2015/04/parking.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2015/04/parking.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -810,7 +814,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2018/03/1-300x169.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2018/03/1-300x169.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -820,7 +824,7 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[http://localhost/speaking/wp-content/uploads/2019/09/worship-1024x594.jpg]]>			</image:loc>
+				<![CDATA[/speaking/wp-content/uploads/2019/09/worship-1024x594.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
